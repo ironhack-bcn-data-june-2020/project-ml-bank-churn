@@ -1,16 +1,10 @@
-# Module 3 - Project 2 (ML) - Show | No Show.
+# Module 3 - Project 2 (ML) - Bank Charn
 
 ### Context
-A person makes a doctor appointment, receives all the instructions and no-show. Who to blame?
-
-
-## Content
-110.527 medical appointments its 14 associated variables (characteristics). The most important one if the patient show-up or no-show to the appointment. Variable names are self-explanatory, if you have doubts, just let the TAs know!
-
-Scholarship variable is related to this [concept](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia)
+The main aim of this project will be to classify if a customer is going to churn or not
 
 **Variables**
-- 01 - PatientId: Identification of a patient
+- 01 - CustomerID: Identification of a customer
 - 02 - AppointmentID: Identification of each appointment
 - 03 - Gender: Male or Female.
 - 04 - DataMarcacaoConsulta: The day of the actual appointment, when they have to visit the doctor.
@@ -26,5 +20,5 @@ Scholarship variable is related to this [concept](https://en.wikipedia.org/wiki/
 
 ## Inspiration
 - What if that possible to predict someone to no-show an appointment?
-- [Link to kaggle](https://www.kaggle.com/joniarroba/noshowappointments). Note: the dataset contained in this repository (the one you must use) differs from the original kaggle dataset.
+- [Link to kaggle](https://www.kaggle.com/kmalit/bank-customer-churn-prediction). Note: the dataset contained in this repository (the one you must use) differs from the original kaggle dataset.
 
