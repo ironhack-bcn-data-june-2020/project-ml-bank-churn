@@ -1,4 +1,4 @@
-# Module 3 - Project 3 (ML) - Churn analysis (DEV)
+# Module 3 - Project 3 (ML) - Churn analysis (alberto)
 
 ### Context
 The main aim of this project will be to classify if a customer is going to churn or not
