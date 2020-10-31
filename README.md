@@ -1,5 +1,5 @@
 
-# Module 3 - Project 2 (ML) - Bank Charn
+# Module 3 - Project 2 (ML) - Churn analysis
 
 
 ### Context
