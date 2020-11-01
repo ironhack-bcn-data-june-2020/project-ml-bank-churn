@@ -2,7 +2,7 @@
 # Module 3 - Project 2 (ML) - Churn Analysis
 
 
-*Victor , Susana, Vero & Anna*
+*Victor, Susana, Vero & Anna*
 
 *Data Analytics-Part Time Course | Barcelona June 2020*
 
@@ -18,11 +18,12 @@
 
 ### Description
 
-This project is to practice statistical analysis using the iterative data analysis process on a dataset.
+This project is to practice Machine Learning.
 
 The dataset chosen is data of 10k clients from Bank - Direct link [here](https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers)
 
-Metadata 
+**Metadata**
+    
     - RowNumber — corresponds to the record (row) number and has no effect on the output. This column will be removed.
     - CustomerId — contains random values and has no effect on customer leaving the bank. This column will be removed.
     - Surname — the surname of a customer has no impact on their decision to leave the bank. This column will be removed.
@@ -70,17 +71,12 @@ Metadata
 
 3. Training Models (Machine Learning Classification Models)
 
-    3.1. ML_LogisticRegression&RegularizedModels (done in class) 
-    
-    3.2. ML_SVM
-    
-    3.3. ML_InstanceBase
-    
-    3.4. ML_LDA
-    
-    3.5. ML_Trees
-    
-    3.6. ML_NeuralNetworks
+        - ML_LogisticRegression&RegularizedModels (done in class) 
+        - ML_SVM
+        - ML_InstanceBase
+        - ML_LDA
+        - ML_Trees
+        - ML_NeuralNetworks
    
 4. Fine-Tuning
 
@@ -131,6 +127,4 @@ Other:
 - What if would be possible to predict if a customer will leave our company?
 
 - [Link to kaggle](https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers). Note: the dataset contained in this repository (the one you must use) differs from the original kaggle dataset.
-
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
