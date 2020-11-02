@@ -114,7 +114,7 @@ CSVs clean data:
 Jupyter notebook of the data wrangling:
 
     - DataPreparation.ipynb
-    - 
+    - (añadir tu jupyter con el modelo)
     - 
 
 Other:
