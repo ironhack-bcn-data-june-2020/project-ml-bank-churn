@@ -2,7 +2,7 @@
 # Module 3 - Project 2 (ML) - Churn Analysis
 
 
-*Victor, Susana, Vero & Anna*
+*Victor, Susanna, Vero & Anna*
 
 *Data Analytics-Part Time Course | Barcelona June 2020*
 
