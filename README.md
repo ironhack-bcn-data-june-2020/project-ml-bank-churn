@@ -147,6 +147,8 @@ Other:
 ## Links 
 
 [Repository](https://github.com/ironhack-bcn-data-june-2020/project-ml-bank-churn/tree/main)
+
 [PowerPoint Presentation](https://docs.google.com/presentation/d/10QSgmnRCWzjXK7wGMTpAvt8cKHXmIogWoy7x_48_Qbc/edit#slide=id.p)
+
 [GitHub Project](https://github.com/ironhack-bcn-data-june-2020/project-ml-bank-churn/projects/1)
 
