@@ -101,7 +101,7 @@ Classify if a customer from a Bank is going to churn or not. *What if would be p
 
 ## Organization
 
-**Main Organization of the project thought Trello board:**
+**Main Organization of the project thought GitHub Project board:**
 
 1. Organize a Project GitHub board with main tasks and timings
 2. Create a repository including a .gitignore file and a Readme.md
