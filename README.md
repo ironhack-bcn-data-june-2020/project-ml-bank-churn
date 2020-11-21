@@ -70,20 +70,32 @@ Classify if a customer from a Bank is going to churn or not. *What if would be p
     2.3 Feature Engineering
     
         - Log transformation
-        - StandardScaler
-        - Creat new columns (mix columns)
+        - MinMaxScaler
+        - Creat new columns
 
-3. Training Models (Machine Learning Classification Models)
 
-        - ML_LogisticRegression&RegularizedModels (done in class) 
-        - ML_SVM
-        - ML_InstanceBase
-        - ML_LDA
-        - ML_Trees
-        - ML_NeuralNetworks
+3. Select From Model (Classification Models)
+        
+        - LogisticRegression
+        - SVM
+        - KNeighborsClassifier
+        - DecisionTreeClassifier
+        - LinearDiscriminantAnalysis
+        - GaussianNB
+        - RandomForestClassifier
+        - MLPClassifier
+
+4. Train Models (Machine Learning Classification Models)
+
+        - LogisticRegression
+        - SVM
+        - RFC
+        - NeuralNetworks
    
-4. Fine-Tuning
+5. Ensemble Methods
 
+        - XGBoost
+        - Stacking
 
 
 
@@ -100,7 +112,6 @@ Classify if a customer from a Bank is going to churn or not. *What if would be p
 7. Complete Readme.md
 
 
-
 **Inside this repository you can find:**
 
 CSVs raw data:
@@ -109,13 +120,22 @@ CSVs raw data:
 
 CSVs clean data:
 
-    - XXXX.csv
+    - Churn_Clean.csv
+    - Churn_Norm.csv
+    - Churn_norm_LDA.csv
+    - Churn_LDA.csv
 
 Jupyter notebook of the data wrangling:
 
     - DataPreparation.ipynb
-    - (añadir tu jupyter con el modelo)
-    - 
+    - SelectFromModel.ipynb
+    - PCA-LDA.ipynb
+    - ML_logistic_regression_regularized_models.ipynb
+    - ML_RFC.ipynb
+    - MODEL_SVM.ipynb
+    - ML_MLPC.ipynb
+    - EnsembleLearning.ipynb
+
 
 Other:
 
@@ -126,6 +146,7 @@ Other:
 
 ## Links 
 
-[Repository](XXXX)
+[Repository](https://github.com/ironhack-bcn-data-june-2020/project-ml-bank-churn/tree/main)
+[PowerPoint Presentation](https://docs.google.com/presentation/d/10QSgmnRCWzjXK7wGMTpAvt8cKHXmIogWoy7x_48_Qbc/edit#slide=id.p)
 
 
